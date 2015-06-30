@@ -10,9 +10,16 @@
 	<types>
 		<members>LABJS_ngforce</members>
 		<members>ngforce</members>
+		<members>LABJS_ngforce</members>
 		<name>ApexComponent</name>
 	</types>
 	<types>
+		<members>LABJS_ngForceAccounts</members>
+		<members>LABJS_ngForceDemo</members>
+		<members>LABJS_oppBoxTmpl</members>
+		<members>LABJS_oppDetail</members>
+		<members>LABJS_oppDetailsTmpl</members>
+		<members>LABSJS_ngForceAccountsAll</members>
 		<members>LABJS_ngForceAccounts</members>
 		<members>LABJS_ngForceDemo</members>
 		<members>LABJS_oppBoxTmpl</members>
