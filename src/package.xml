@@ -27,12 +27,7 @@
 		<name>ApexPage</name>
 	</types>
 	<types>
-		<members>LABJS_Mo_Tester_2__c</members>
-		<name>CustomObject</name>
-	</types>
-	<types>
     		<members>ngForce</members>
-    		<members>Angular</members>
     		<members>Bootstrap</members>
     		<name>StaticResource</name>
 	</types>
