@@ -9,7 +9,6 @@
 	</types>
 	<types>
 		<members>ngforce</members>
-		<members>LABJS_ngforce</members>
 		<name>ApexComponent</name>
 	</types>
 	<types>
@@ -32,11 +31,10 @@
 		<name>CustomObject</name>
 	</types>
 	<types>
-    <members>ngForce</members>
-    <members>LABJS_Angular</members>
-    <members>LABJS_Bootstrap</members>
-    <members>LABJS_ngForce</members>
-		<name>StaticResource</name>
+    		<members>ngForce</members>
+    		<members>Angular</members>
+    		<members>Bootstrap</members>
+    		<name>StaticResource</name>
 	</types>
 	<version>28.0</version>
 </Package>
