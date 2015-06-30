@@ -9,6 +9,7 @@
 	</types>
 	<types>
 		<members>ngforce</members>
+		<members>LABJS_ngforce</members>
 		<name>ApexComponent</name>
 	</types>
 	<types>
@@ -27,7 +28,7 @@
 		<name>ApexPage</name>
 	</types>
 	<types>
-		<members>Mo_Tester_2__c</members>
+		<members>LABJS_Mo_Tester_2__c</members>
 		<name>CustomObject</name>
 	</types>
 	<types>
